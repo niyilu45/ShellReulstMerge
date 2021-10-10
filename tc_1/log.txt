@@ -1,0 +1,7 @@
+Source: tc_1
+Config: Polar
+Format: SNR BER ErrNum TotalNum
+          0 0.5     10       40
+          -1 0.1     30       600
+          -10 0.1     30       100
+

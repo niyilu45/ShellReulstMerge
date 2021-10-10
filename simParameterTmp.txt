@@ -1,0 +1,14 @@
+Config: LDPC
+Format: SNR BER ErrNum TotalNum
+Source: tc_2 tc_3
+ 0.0 0.476 20 42
+ -1.0 0.095 60 630
+ -10.0 0.098 60 610
+
+Config: Polar
+Format: SNR BER ErrNum TotalNum
+Source: tc_0 tc_1
+ 0.0 0.333 20 60
+ -1.0 0.067 60 900
+ -10.0 0.150 60 400
+

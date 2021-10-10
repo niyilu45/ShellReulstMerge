@@ -1,0 +1,7 @@
+Source: tc_3
+Config: LDPC
+Format: SNR BER ErrNum TotalNum
+          0 0.5     10       22
+          -1 0.1     30       330
+          -10 0.1     30       310
+
