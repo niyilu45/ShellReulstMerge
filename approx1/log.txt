@@ -1,0 +1,5 @@
+Source: tc_0
+Config: Polar
+Format: SNR, BER, ErrNum, TotalNum
+fullband/tc_0, 0 -1 -10, 0.2 0.1 0.1     ,10       ,20
+
